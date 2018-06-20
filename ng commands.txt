@@ -1,0 +1,5 @@
+ng new AngularAmazono --routing --style=scss
+ng generate component Home
+ng generate service RestApi
+ng generate service Data
+ng generate component Message

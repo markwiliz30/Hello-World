@@ -1,0 +1,23 @@
+npm install nodemon -g						nodemon server
+npm init							ng serve
+( 
+  name: (server)
+  version: (1.0.0)
+  description: hello amazono
+  entry point: (index.js) server.js
+  test command: 
+  git repository: 
+  keywords: 
+  author: Arash
+  license: (ISC)
+)
+
+npm install express body-parser morgan mongoose --save
+npm install cors --save
+npm install -g @angular/cli
+npm install @ng-bootstrap/ng-bootstrap
+npm install bcrypt-nodejs --save
+npm install jsonwebtoken --save
+npm install async --save
+
+npm install stripe --save

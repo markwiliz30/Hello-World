@@ -1,0 +1,4 @@
+https://mlab.com/ - for mongo database (markwiliz30) (deathbell06) [db user(mark) pass(deathbell06)]
+https://www.algolia.com/ (google acc) (markwilizdelmoro@gmail.com)
+https://stripe.com (markwilizdelmoro@gmail.com) (Deathbell_06)
+
