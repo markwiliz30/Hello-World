@@ -1,1 +1,8 @@
 (LocalDb)\MSSQLLocalDB
+
+
+
+//for appconfig
+"ConnectionStrings": {
+  "MvcMovieContext": "Server=(localdb)\\mssqllocaldb;Database=MvcMovieContext-2;Trusted_Connection=True;MultipleActiveResultSets=true"
+}
